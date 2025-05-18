@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Tcnologias</h3>
+<h3 align="left">Tecnologias</h3>
 
 ###
 
