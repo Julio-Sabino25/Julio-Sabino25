@@ -1,30 +1,59 @@
-# 👋 Julio Sabino
+# 👋 Olá, eu sou Julio Sabino!
 
-**Entusiasta de Automação & IA | Python | n8n | LLM Orchestration**
+**Entusiasta Desenvolvimento Backend | Apaixonado por Automação e Inteligência Artificial**
 
-> Transformando processos manuais em fluxos inteligentes e agentes autônomos.
+> Transformando processos manuais em sistemas inteligentes e automatizados.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-00A8E6?style=flat&logo=n8n&logoColor=white)
+---
 
-## Sobre Mim
-  Sou entusiasta de tecnologia com conhecimento em <b>Python, JavaScript, SQL e n8n</b>. 
-  Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. 
-  Atualmente, estou me aprofundando na <b>orquestração de LLMs e agentes inteligentes</b>, 
-  integrando modelos de linguagem a fluxos de trabalho complexos para automatizar 
-  a tomada de decisão e o processamento de dados não estruturados.
+### 🛠️ Tecnologias & Ferramentas
 
-## 🔥 Projetos em Destaque
-- **[Nome do projeto de agente/LLM]** → descrição insana
-- **gerenciamento_livros_Tkinter** → POO + Interface desktop
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-00A8E6?style=flat-square&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=flat-square&logo=deepseek&logoColor=white)
 
-## Tecnologias & Ferramentas
-- **Linguagens**: Python, JavaScript, SQL
-- **Automação**: n8n, Make, Zapier
-- **IA**: LangChain, CrewAI, OpenAI API, local LLMs
-- **Outros**: ...
+**Principais áreas de foco:**
+- Backend com Python
+- Automação de processos (n8n + APIs)
+- Integração com Large Language Models (LLMs)
+- Análise e tratamento de dados
+- Criação de agentes e workflows inteligentes
 
-## Contato
-- LinkedIn: [aqui]
-- Email: ...
+---
+
+### 📊 Projetos em Destaque
+
+- **[Auditoria Inteligente de Vendas](https://github.com/Julio-Sabino25/auditoria-vendas)**  
+  Workflow completo em n8n com limpeza de dados, regras de negócio complexas, detecção de duplicatas e relatórios automáticos via IA (Groq) + Gmail + Telegram.
+
+- **Gerenciamento de Livros com Tkinter**  
+  Sistema desktop completo com POO, CRUD e interface gráfica.
+
+- **Lojas Temáticas (HTML/CSS/JS)**  
+  Projetos responsivos de e-commerce (Café, Móveis, etc).
+
+*(Em breve mais projetos em FastAPI, Node.js e Python puro)*
+
+---
+
+### 🎯 O que estou estudando agora
+
+- Arquitetura de Agentes
+- Design de APIs RESTful
+- Testes automatizados e Clean Code
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julio-cesar-8801b6199)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julio.c.moreira11@live.com)
+
+---
+
+**Sempre buscando aprender, automatizar e construir coisas que resolvam problemas reais.**
+
+*“A automação não tira emprego, ela tira trabalho repetitivo.”*
