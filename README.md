@@ -1,115 +1,26 @@
+# 👋 Julio Sabino
 
-<h2 align="left">Sobre Mim</h2>
+**Entusiasta de Automação & IA | Python | n8n | LLM Orchestration**
 
+> Transformando processos manuais em fluxos inteligentes e agentes autônomos.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-00A8E6?style=flat&logo=n8n&logoColor=white)
 
-###
+## Sobre Mim
+[seu texto atual melhorado...]
 
+## 🔥 Projetos em Destaque
+- **[Nome do projeto de agente/LLM]** → descrição insana
+- **gerenciamento_livros_Tkinter** → POO + Interface desktop
 
+## Tecnologias & Ferramentas
+- **Linguagens**: Python, JavaScript, SQL
+- **Automação**: n8n, Make, Zapier
+- **IA**: LangChain, CrewAI, OpenAI API, local LLMs
+- **Outros**: ...
 
-<p align="left">Sou entusiasta de tecnologia com conhecimento em Python, JavaScript, SQL e n8n. Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. Atualmente, estou me aprofundando na orquestração de LLMs e agentes inteligentes, integrando modelos de linguagem a fluxos de trabalho complexos para automatizar a tomada de decisão e o processamento de dados não estruturados.</p>
-
-
-
-###
-
-
-
-<h3 align="left">Tecnologias</h3>
-
-
-
-###
-
-
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-
-</div>
-
-
-
-###
-
-
-
-<h3 align="left">Status</h3>
-
-
-
-###
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Julio-Sabino25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julio-Sabino25&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=Julio-Sabino25&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julio-Sabino25&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
-</div>
-
-
-
-###
-
-
-
-<h3 align="left">Redes Sociais</h3>
-
-
-
-###
-
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/julio-cesar-8801b6199" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin"/>
-</a>
-
-  </a>
-
-<a href="https://www.instagram.com/juliosabino89/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram"/>
-</a>
-
-  </a>
-
-<a href="https://t.me/Juliokhinthall" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="telegram"/>
-</a>
-
-  </a>
-
-</div>
-
-
-
-###
+## Contato
+- LinkedIn: [aqui]
+- Email: ...
