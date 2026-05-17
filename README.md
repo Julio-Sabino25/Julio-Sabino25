@@ -7,7 +7,7 @@
 
 
 
-<p align="left">Sou entusiasta de tecnologia com conhecimento em Python, HTML, CSS, JavaScript e SQL. Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. Atualmente, estou me aprofundando em Django para desenvolvimento de sites e aplicações web, sempre buscando evoluir por meio de projetos, estudos e desafios reais.</p>
+<p align="left">Sou entusiasta de tecnologia com conhecimento em Python, HTML, CSS, JavaScript N8N e SQL. Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. Atualmente, estou me aprofundando em Django para desenvolvimento de sites e aplicações web, sempre buscando evoluir por meio de projetos, estudos e desafios reais.</p>
 
 
 
