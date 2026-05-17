@@ -9,7 +9,11 @@
 ![n8n](https://img.shields.io/badge/n8n-00A8E6?style=flat&logo=n8n&logoColor=white)
 
 ## Sobre Mim
-[seu texto atual melhorado...]
+  Sou entusiasta de tecnologia com conhecimento em <b>Python, JavaScript, SQL e n8n</b>. 
+  Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. 
+  Atualmente, estou me aprofundando na <b>orquestração de LLMs e agentes inteligentes</b>, 
+  integrando modelos de linguagem a fluxos de trabalho complexos para automatizar 
+  a tomada de decisão e o processamento de dados não estruturados.
 
 ## 🔥 Projetos em Destaque
 - **[Nome do projeto de agente/LLM]** → descrição insana
