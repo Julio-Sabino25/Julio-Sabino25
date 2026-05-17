@@ -7,7 +7,7 @@
 
 
 
-<p align="left">Sou entusiasta de tecnologia com conhecimento em Python, HTML, CSS, JavaScript N8N e SQL. Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. Atualmente, estou me aprofundando em Django para desenvolvimento de sites e aplicações web, sempre buscando evoluir por meio de projetos, estudos e desafios reais.</p>
+<p align="left">Sou entusiasta de tecnologia com conhecimento em Python, JavaScript, SQL e n8n. Gosto de criar soluções práticas, automatizar tarefas e trabalhar com dados. Atualmente, estou me aprofundando na orquestração de LLMs e agentes inteligentes, integrando modelos de linguagem a fluxos de trabalho complexos para automatizar a tomada de decisão e o processamento de dados não estruturados.</p>
 
 
 
