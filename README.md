@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Julio Sabino!
 
-**Entusiasta Desenvolvimento Backend | Apaixonado por Automação e Inteligência Artificial**
+**Desenvolvimento Backend | Apaixonado por Automação e Inteligência Artificial**
 
 > Transformando processos manuais em sistemas inteligentes e automatizados.
 
