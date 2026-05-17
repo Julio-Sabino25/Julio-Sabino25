@@ -26,7 +26,7 @@
 
 ### 📊 Projetos em Destaque
 
-- **[Auditoria Inteligente de Vendas](https://github.com/Julio-Sabino25/auditoria-vendas)**  
+- **Auditoria Inteligente de Vendas**  
   Workflow completo em n8n com limpeza de dados, regras de negócio complexas, detecção de duplicatas e relatórios automáticos via IA (Groq) + Gmail + Telegram.
 
 - **Gerenciamento de Livros com Tkinter**  
