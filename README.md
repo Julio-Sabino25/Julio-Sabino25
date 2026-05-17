@@ -90,22 +90,21 @@
 
 
 <div align="left">
-
   <a href="https://www.linkedin.com/in/julio-cesar-8801b6199" target="_blank">
-
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-
-  </a>
-
-  <a href="https://www.instagram.com/juliosabino89/" target="_blank">
-
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin"/>
+</a>
 
   </a>
 
-  <a href="https://t.me/Juliokhinthall" target="_blank">
+<a href="https://www.instagram.com/juliosabino89/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="instagram"/>
+</a>
 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+
+<a href="https://t.me/Juliokhinthall" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="telegram"/>
+</a>
 
   </a>
 
